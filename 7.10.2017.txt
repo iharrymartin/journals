@@ -1,0 +1,3 @@
+	learned the basics of git and git hub
+	made to repo named 'python exercises' to save the python exercises that i have done
+	another repo named 'journals' to save my daily activities
